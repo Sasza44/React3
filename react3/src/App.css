@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: orange;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+thead{
+    background-color: rgb(68, 180, 255);
+    font-weight: 700;
+}
+thead td{
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
